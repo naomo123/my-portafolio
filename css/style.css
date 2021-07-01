@@ -247,8 +247,6 @@ a { text-decoration: none;
 
 .work__img img{
   transition: 1s;
-  width: 100%;
-  height: 600px;
   cursor: pointer;
 }
 .work__img img:hover{
